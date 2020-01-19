@@ -36,6 +36,6 @@ def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix
   assembled_matrix[0][2] = "Lemons"
-  assembled_matrix[0][2]
+  matrix_update[0][2]
   
 end
